@@ -1,6 +1,6 @@
 {
   "@context": "http://iiif.io/api/presentation/2/context.json",
-  "@id": "REPLACE_WITH_YOUR_GITHUB_RAW_URL",
+  "@id": "https://raw.githubusercontent.com/lmorreale3/iiif-manifests/refs/heads/main/catania_vent_27_pp121-171.json",
   "@type": "sc:Manifest",
   "label": "Catania_Vent_27 (pp. 121-171)",
   "metadata": [
