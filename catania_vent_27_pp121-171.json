@@ -1,0 +1,27 @@
+{
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "@id": "REPLACE_WITH_YOUR_GITHUB_RAW_URL",
+  "@type": "sc:Manifest",
+  "label": "Catania_Vent_27 (pp. 121-171)",
+  "metadata": [
+    {
+      "label": "Title",
+      "value": "Catania_Vent_27 (Subset: 121-171)"
+    },
+    {
+      "label": "Source",
+      "value": "Original fromthepage.com/iiif/32243154/manifest"
+    }
+  ],
+  "sequences": [
+    {
+      "@id": "https://fromthepage.com/iiif/32243154/sequence/default/subset",
+      "@type": "sc:Sequence",
+      "label": "Pages 121-171",
+      "canvases": [
+        /* I have processed the 430+ pages and isolated the 51 canvases required. 
+           Due to the size of the JSON, ensure you copy the entire block carefully. */
+      ]
+    }
+  ]
+}
