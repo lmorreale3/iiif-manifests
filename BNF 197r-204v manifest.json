@@ -1,0 +1,102 @@
+{
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "@type": "sc:Manifest",
+  "@id": "https://raw.githubusercontent.com/lmorreale3/iiif-manifests/main/bnf-197r-204v-manifest.json",
+  "label": "BNF 197r-204v manifest",
+  "metadata": [
+    {
+      "label": "Source",
+      "value": "Bibliothèque nationale de France, Département des manuscrits, Français 12201"
+    }
+  ],
+  "description": "Selection of folios 197r to 204v for transcription.",
+  "sequences": [
+    {
+      "@type": "sc:Sequence",
+      "canvases": [
+        {
+          "@type": "sc:Canvas",
+          "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b52527481n/canvas/f403",
+          "label": "f. 197r",
+          "width": 3811,
+          "height": 5519,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b52527481n/f403/full/full/0/native.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b52527481n/f403",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b52527481n/canvas/f403"
+            }
+          ]
+        },
+        {
+          "@type": "sc:Canvas",
+          "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b52527481n/canvas/f404",
+          "label": "f. 197v",
+          "width": 3811,
+          "height": 5519,
+          "images": [ { "@type": "oa:Annotation", "motivation": "sc:painting", "resource": { "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b52527481n/f404/full/full/0/native.jpg", "@type": "dctypes:Image", "format": "image/jpeg", "service": { "@context": "http://iiif.io/api/image/2/context.json", "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b52527481n/f404", "profile": "http://iiif.io/api/image/2/level2.json" } }, "on": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b52527481n/canvas/f404" } ]
+        },
+        {
+          "@type": "sc:Canvas",
+          "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b52527481n/canvas/f405",
+          "label": "f. 198r",
+          "width": 3811,
+          "height": 5519,
+          "images": [ { "@type": "oa:Annotation", "motivation": "sc:painting", "resource": { "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b52527481n/f405/full/full/0/native.jpg", "@type": "dctypes:Image", "format": "image/jpeg", "service": { "@context": "http://iiif.io/api/image/2/context.json", "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b52527481n/f405", "profile": "http://iiif.io/api/image/2/level2.json" } }, "on": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b52527481n/canvas/f405" } ]
+        },
+        {
+          "@type": "sc:Canvas",
+          "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b52527481n/canvas/f406",
+          "label": "f. 198v",
+          "width": 3811,
+          "height": 5519,
+          "images": [ { "@type": "oa:Annotation", "motivation": "sc:painting", "resource": { "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b52527481n/f406/full/full/0/native.jpg", "@type": "dctypes:Image", "format": "image/jpeg", "service": { "@context": "http://iiif.io/api/image/2/context.json", "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b52527481n/f406", "profile": "http://iiif.io/api/image/2/level2.json" } }, "on": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b52527481n/canvas/f406" } ]
+        },
+        {
+          "@type": "sc:Canvas",
+          "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b52527481n/canvas/f407",
+          "label": "f. 199r",
+          "width": 3811,
+          "height": 5519,
+          "images": [ { "@type": "oa:Annotation", "motivation": "sc:painting", "resource": { "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b52527481n/f407/full/full/0/native.jpg", "@type": "dctypes:Image", "format": "image/jpeg", "service": { "@context": "http://iiif.io/api/image/2/context.json", "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b52527481n/f407", "profile": "http://iiif.io/api/image/2/level2.json" } }, "on": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b52527481n/canvas/f407" } ]
+        },
+        {
+          "@type": "sc:Canvas",
+          "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b52527481n/canvas/f408",
+          "label": "f. 199v",
+          "width": 3811,
+          "height": 5519,
+          "images": [ { "@type": "oa:Annotation", "motivation": "sc:painting", "resource": { "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b52527481n/f408/full/full/0/native.jpg", "@type": "dctypes:Image", "format": "image/jpeg", "service": { "@context": "http://iiif.io/api/image/2/context.json", "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b52527481n/f408", "profile": "http://iiif.io/api/image/2/level2.json" } }, "on": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b52527481n/canvas/f408" } ]
+        },
+        {
+          "@type": "sc:Canvas",
+          "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b52527481n/canvas/f409",
+          "label": "f. 200r",
+          "width": 3811,
+          "height": 5519,
+          "images": [ { "@type": "oa:Annotation", "motivation": "sc:painting", "resource": { "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b52527481n/f409/full/full/0/native.jpg", "@type": "dctypes:Image", "format": "image/jpeg", "service": { "@context": "http://iiif.io/api/image/2/context.json", "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b52527481n/f409", "profile": "http://iiif.io/api/image/2/level2.json" } }, "on": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b52527481n/canvas/f409" } ]
+        },
+        {
+          "@type": "sc:Canvas",
+          "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b52527481n/canvas/f410",
+          "label": "f. 200v",
+          "width": 3811,
+          "height": 5519,
+          "images": [ { "@type": "oa:Annotation", "motivation": "sc:painting", "resource": { "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b52527481n/f410/full/full/0/native.jpg", "@type": "dctypes:Image", "format": "image/jpeg", "service": { "@context": "http://iiif.io/api/image/2/context.json", "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b52527481n/f410", "profile": "http://iiif.io/api/image/2/level2.json" } }, "on": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b52527481n/canvas/f410" } ]
+        },
+        {
+          "@type": "sc:Canvas",
+          "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b52527481n/canvas/f411",
+          "label": "f. 201r",
+          "width": 3811,
+          "
