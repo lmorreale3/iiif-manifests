@@ -1,0 +1,146 @@
+{
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "@id": "https://fromthepage.com/iiif/32044564/manifest",
+  "@type": "sc:Manifest",
+  "label": "[Thesaurus pauperum, in Italian ; Nicolaus, Experimenta in Italian ; ...]",
+  "metadata": [
+    {
+      "label": "Item Url",
+      "value": "https://www.loc.gov/item/2016656219/"
+    }
+  ],
+  "sequences": [
+    {
+      "@id": "https://fromthepage.com/iiif/32044564/sequence/default",
+      "@type": "sc:Sequence",
+      "label": "Pages 80-85",
+      "canvases": [
+        {
+          "@id": "https://tile.loc.gov/image-services/iiif/service:rbc:rbc0001:2016:2016medren56219:0080",
+          "@type": "sc:Canvas",
+          "label": "Page 80",
+          "width": 3200,
+          "height": 4300,
+          "images": [
+            {
+              "@id": "https://tile.loc.gov/image-services/iiif/service:rbc:rbc0001:2016:2016medren56219:0080",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://tile.loc.gov/image-services/iiif/service:rbc:rbc0001:2016:2016medren56219:0080/full/pct:100/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://tile.loc.gov/image-services/iiif/service:rbc:rbc0001:2016:2016medren56219:0080",
+                  "profile": "https://iiif.io/api/image/1.1/compliance/#level2"
+                }
+              },
+              "on": "https://tile.loc.gov/image-services/iiif/service:rbc:rbc0001:2016:2016medren56219:0080"
+            }
+          ]
+        },
+        {
+          "@id": "https://tile.loc.gov/image-services/iiif/service:rbc:rbc0001:2016:2016medren56219:0081",
+          "@type": "sc:Canvas",
+          "label": "Page 81",
+          "images": [
+            {
+              "@id": "https://tile.loc.gov/image-services/iiif/service:rbc:rbc0001:2016:2016medren56219:0081",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://tile.loc.gov/image-services/iiif/service:rbc:rbc0001:2016:2016medren56219:0081/full/pct:100/0/default.jpg",
+                "@type": "dctypes:Image",
+                "service": {
+                  "@id": "https://tile.loc.gov/image-services/iiif/service:rbc:rbc0001:2016:2016medren56219:0081"
+                }
+              },
+              "on": "https://tile.loc.gov/image-services/iiif/service:rbc:rbc0001:2016:2016medren56219:0081"
+            }
+          ]
+        },
+        {
+          "@id": "https://tile.loc.gov/image-services/iiif/service:rbc:rbc0001:2016:2016medren56219:0082",
+          "@type": "sc:Canvas",
+          "label": "Page 82",
+          "images": [
+            {
+              "@id": "https://tile.loc.gov/image-services/iiif/service:rbc:rbc0001:2016:2016medren56219:0082",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://tile.loc.gov/image-services/iiif/service:rbc:rbc0001:2016:2016medren56219:0082/full/pct:100/0/default.jpg",
+                "@type": "dctypes:Image",
+                "service": {
+                  "@id": "https://tile.loc.gov/image-services/iiif/service:rbc:rbc0001:2016:2016medren56219:0082"
+                }
+              },
+              "on": "https://tile.loc.gov/image-services/iiif/service:rbc:rbc0001:2016:2016medren56219:0082"
+            }
+          ]
+        },
+        {
+          "@id": "https://tile.loc.gov/image-services/iiif/service:rbc:rbc0001:2016:2016medren56219:0083",
+          "@type": "sc:Canvas",
+          "label": "Page 83",
+          "images": [
+            {
+              "@id": "https://tile.loc.gov/image-services/iiif/service:rbc:rbc0001:2016:2016medren56219:0083",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://tile.loc.gov/image-services/iiif/service:rbc:rbc0001:2016:2016medren56219:0083/full/pct:100/0/default.jpg",
+                "@type": "dctypes:Image",
+                "service": {
+                  "@id": "https://tile.loc.gov/image-services/iiif/service:rbc:rbc0001:2016:2016medren56219:0083"
+                }
+              },
+              "on": "https://tile.loc.gov/image-services/iiif/service:rbc:rbc0001:2016:2016medren56219:0083"
+            }
+          ]
+        },
+        {
+          "@id": "https://tile.loc.gov/image-services/iiif/service:rbc:rbc0001:2016:2016medren56219:0084",
+          "@type": "sc:Canvas",
+          "label": "Page 84",
+          "images": [
+            {
+              "@id": "https://tile.loc.gov/image-services/iiif/service:rbc:rbc0001:2016:2016medren56219:0084",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://tile.loc.gov/image-services/iiif/service:rbc:rbc0001:2016:2016medren56219:0084/full/pct:100/0/default.jpg",
+                "@type": "dctypes:Image",
+                "service": {
+                  "@id": "https://tile.loc.gov/image-services/iiif/service:rbc:rbc0001:2016:2016medren56219:0084"
+                }
+              },
+              "on": "https://tile.loc.gov/image-services/iiif/service:rbc:rbc0001:2016:2016medren56219:0084"
+            }
+          ]
+        },
+        {
+          "@id": "https://tile.loc.gov/image-services/iiif/service:rbc:rbc0001:2016:2016medren56219:0085",
+          "@type": "sc:Canvas",
+          "label": "Page 85",
+          "images": [
+            {
+              "@id": "https://tile.loc.gov/image-services/iiif/service:rbc:rbc0001:2016:2016medren56219:0085",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://tile.loc.gov/image-services/iiif/service:rbc:rbc0001:2016:2016medren56219:0085/full/pct:100/0/default.jpg",
+                "@type": "dctypes:Image",
+                "service": {
+                  "@id": "https://tile.loc.gov/image-services/iiif/service:rbc:rbc0001:2016:2016medren56219:0085"
+                }
+              },
+              "on": "https://tile.loc.gov/image-services/iiif/service:rbc:rbc0001:2016:2016medren56219:0085"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
