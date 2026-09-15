@@ -4,6 +4,11 @@
   "@type": "sc:Manifest",
   "label": "LOC OWH MS 22",
   "description": "153-page Italian medical text",
+  "thumbnail": {
+    "@id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/image00001.jpeg",
+    "@type": "dctypes:Image",
+    "format": "image/jpeg"
+  },
   "sequences": [
     {
       "@type": "sc:Sequence",
@@ -14,6 +19,13 @@
           "label": "Folio 1",
           "height": 4284,
           "width": 5712,
+          "thumbnail": {
+            "@id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/image00001.jpeg",
+            "@type": "dctypes:Image",
+            "format": "image/jpeg",
+            "height": 4284,
+            "width": 5712
+          },
           "images": [
             {
               "@id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p1/annotation",
@@ -36,6 +48,13 @@
           "label": "Folio 2",
           "height": 4284,
           "width": 5712,
+          "thumbnail": {
+            "@id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/image00002.jpeg",
+            "@type": "dctypes:Image",
+            "format": "image/jpeg",
+            "height": 4284,
+            "width": 5712
+          },
           "images": [
             {
               "@id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p2/annotation",
@@ -58,6 +77,13 @@
           "label": "Folio 3",
           "height": 4284,
           "width": 5712,
+          "thumbnail": {
+            "@id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/image00003.jpeg",
+            "@type": "dctypes:Image",
+            "format": "image/jpeg",
+            "height": 4284,
+            "width": 5712
+          },
           "images": [
             {
               "@id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p3/annotation",
@@ -80,6 +106,13 @@
           "label": "Folio 4",
           "height": 4284,
           "width": 5712,
+          "thumbnail": {
+            "@id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/image00004.jpeg",
+            "@type": "dctypes:Image",
+            "format": "image/jpeg",
+            "height": 4284,
+            "width": 5712
+          },
           "images": [
             {
               "@id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p4/annotation",
@@ -102,6 +135,13 @@
           "label": "Folio 5",
           "height": 4284,
           "width": 5712,
+          "thumbnail": {
+            "@id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/image00005.jpeg",
+            "@type": "dctypes:Image",
+            "format": "image/jpeg",
+            "height": 4284,
+            "width": 5712
+          },
           "images": [
             {
               "@id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p5/annotation",
@@ -124,6 +164,13 @@
           "label": "Folio 6",
           "height": 4284,
           "width": 5712,
+          "thumbnail": {
+            "@id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/image00006.jpeg",
+            "@type": "dctypes:Image",
+            "format": "image/jpeg",
+            "height": 4284,
+            "width": 5712
+          },
           "images": [
             {
               "@id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p6/annotation",
@@ -146,6 +193,13 @@
           "label": "Folio 7",
           "height": 4284,
           "width": 5712,
+          "thumbnail": {
+            "@id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/image00007.jpeg",
+            "@type": "dctypes:Image",
+            "format": "image/jpeg",
+            "height": 4284,
+            "width": 5712
+          },
           "images": [
             {
               "@id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p7/annotation",
@@ -168,6 +222,13 @@
           "label": "Folio 8",
           "height": 4284,
           "width": 5712,
+          "thumbnail": {
+            "@id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/image00008.jpeg",
+            "@type": "dctypes:Image",
+            "format": "image/jpeg",
+            "height": 4284,
+            "width": 5712
+          },
           "images": [
             {
               "@id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p8/annotation",
@@ -190,6 +251,13 @@
           "label": "Folio 9",
           "height": 4284,
           "width": 5712,
+          "thumbnail": {
+            "@id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/image00009.jpeg",
+            "@type": "dctypes:Image",
+            "format": "image/jpeg",
+            "height": 4284,
+            "width": 5712
+          },
           "images": [
             {
               "@id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p9/annotation",
@@ -212,6 +280,13 @@
           "label": "Folio 10",
           "height": 4284,
           "width": 5712,
+          "thumbnail": {
+            "@id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/image00010.jpeg",
+            "@type": "dctypes:Image",
+            "format": "image/jpeg",
+            "height": 4284,
+            "width": 5712
+          },
           "images": [
             {
               "@id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p10/annotation",
@@ -234,6 +309,13 @@
           "label": "Folio 11",
           "height": 4284,
           "width": 5712,
+          "thumbnail": {
+            "@id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/image00011.jpeg",
+            "@type": "dctypes:Image",
+            "format": "image/jpeg",
+            "height": 4284,
+            "width": 5712
+          },
           "images": [
             {
               "@id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p11/annotation",
@@ -256,6 +338,13 @@
           "label": "Folio 12",
           "height": 4284,
           "width": 5712,
+          "thumbnail": {
+            "@id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/image00012.jpeg",
+            "@type": "dctypes:Image",
+            "format": "image/jpeg",
+            "height": 4284,
+            "width": 5712
+          },
           "images": [
             {
               "@id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p12/annotation",
@@ -278,6 +367,13 @@
           "label": "Folio 13",
           "height": 4284,
           "width": 5712,
+          "thumbnail": {
+            "@id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/image00013.jpeg",
+            "@type": "dctypes:Image",
+            "format": "image/jpeg",
+            "height": 4284,
+            "width": 5712
+          },
           "images": [
             {
               "@id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p13/annotation",
@@ -300,6 +396,13 @@
           "label": "Folio 14",
           "height": 4284,
           "width": 5712,
+          "thumbnail": {
+            "@id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/image00014.jpeg",
+            "@type": "dctypes:Image",
+            "format": "image/jpeg",
+            "height": 4284,
+            "width": 5712
+          },
           "images": [
             {
               "@id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p14/annotation",
@@ -322,6 +425,13 @@
           "label": "Folio 15",
           "height": 4284,
           "width": 5712,
+          "thumbnail": {
+            "@id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/image00015.jpeg",
+            "@type": "dctypes:Image",
+            "format": "image/jpeg",
+            "height": 4284,
+            "width": 5712
+          },
           "images": [
             {
               "@id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p15/annotation",
@@ -344,6 +454,13 @@
           "label": "Folio 16",
           "height": 4284,
           "width": 5712,
+          "thumbnail": {
+            "@id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/image00016.jpeg",
+            "@type": "dctypes:Image",
+            "format": "image/jpeg",
+            "height": 4284,
+            "width": 5712
+          },
           "images": [
             {
               "@id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p16/annotation",
@@ -366,6 +483,13 @@
           "label": "Folio 17",
           "height": 4284,
           "width": 5712,
+          "thumbnail": {
+            "@id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/image00017.jpeg",
+            "@type": "dctypes:Image",
+            "format": "image/jpeg",
+            "height": 4284,
+            "width": 5712
+          },
           "images": [
             {
               "@id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p17/annotation",
@@ -388,6 +512,13 @@
           "label": "Folio 18",
           "height": 4284,
           "width": 5712,
+          "thumbnail": {
+            "@id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/image00018.jpeg",
+            "@type": "dctypes:Image",
+            "format": "image/jpeg",
+            "height": 4284,
+            "width": 5712
+          },
           "images": [
             {
               "@id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p18/annotation",
@@ -410,6 +541,13 @@
           "label": "Folio 19",
           "height": 4284,
           "width": 5712,
+          "thumbnail": {
+            "@id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/image00019.jpeg",
+            "@type": "dctypes:Image",
+            "format": "image/jpeg",
+            "height": 4284,
+            "width": 5712
+          },
           "images": [
             {
               "@id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p19/annotation",
@@ -432,6 +570,13 @@
           "label": "Folio 20",
           "height": 4284,
           "width": 5712,
+          "thumbnail": {
+            "@id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/image00020.jpeg",
+            "@type": "dctypes:Image",
+            "format": "image/jpeg",
+            "height": 4284,
+            "width": 5712
+          },
           "images": [
             {
               "@id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p20/annotation",
@@ -454,6 +599,13 @@
           "label": "Folio 21",
           "height": 4284,
           "width": 5712,
+          "thumbnail": {
+            "@id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/image00021.jpeg",
+            "@type": "dctypes:Image",
+            "format": "image/jpeg",
+            "height": 4284,
+            "width": 5712
+          },
           "images": [
             {
               "@id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p21/annotation",
@@ -476,6 +628,13 @@
           "label": "Folio 22",
           "height": 4284,
           "width": 5712,
+          "thumbnail": {
+            "@id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/image00022.jpeg",
+            "@type": "dctypes:Image",
+            "format": "image/jpeg",
+            "height": 4284,
+            "width": 5712
+          },
           "images": [
             {
               "@id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p22/annotation",
@@ -498,6 +657,13 @@
           "label": "Folio 23",
           "height": 4284,
           "width": 5712,
+          "thumbnail": {
+            "@id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/image00023.jpeg",
+            "@type": "dctypes:Image",
+            "format": "image/jpeg",
+            "height": 4284,
+            "width": 5712
+          },
           "images": [
             {
               "@id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p23/annotation",
@@ -520,6 +686,13 @@
           "label": "Folio 24",
           "height": 4284,
           "width": 5712,
+          "thumbnail": {
+            "@id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/image00024.jpeg",
+            "@type": "dctypes:Image",
+            "format": "image/jpeg",
+            "height": 4284,
+            "width": 5712
+          },
           "images": [
             {
               "@id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p24/annotation",
@@ -542,6 +715,13 @@
           "label": "Folio 25",
           "height": 4284,
           "width": 5712,
+          "thumbnail": {
+            "@id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/image00025.jpeg",
+            "@type": "dctypes:Image",
+            "format": "image/jpeg",
+            "height": 4284,
+            "width": 5712
+          },
           "images": [
             {
               "@id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p25/annotation",
@@ -564,6 +744,13 @@
           "label": "Folio 26",
           "height": 4284,
           "width": 5712,
+          "thumbnail": {
+            "@id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/image00026.jpeg",
+            "@type": "dctypes:Image",
+            "format": "image/jpeg",
+            "height": 4284,
+            "width": 5712
+          },
           "images": [
             {
               "@id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p26/annotation",
@@ -586,6 +773,13 @@
           "label": "Folio 27",
           "height": 4284,
           "width": 5712,
+          "thumbnail": {
+            "@id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/image00027.jpeg",
+            "@type": "dctypes:Image",
+            "format": "image/jpeg",
+            "height": 4284,
+            "width": 5712
+          },
           "images": [
             {
               "@id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p27/annotation",
@@ -608,6 +802,13 @@
           "label": "Folio 28",
           "height": 4284,
           "width": 5712,
+          "thumbnail": {
+            "@id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/image00028.jpeg",
+            "@type": "dctypes:Image",
+            "format": "image/jpeg",
+            "height": 4284,
+            "width": 5712
+          },
           "images": [
             {
               "@id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p28/annotation",
@@ -630,6 +831,13 @@
           "label": "Folio 29",
           "height": 4284,
           "width": 5712,
+          "thumbnail": {
+            "@id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/image00029.jpeg",
+            "@type": "dctypes:Image",
+            "format": "image/jpeg",
+            "height": 4284,
+            "width": 5712
+          },
           "images": [
             {
               "@id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p29/annotation",
@@ -652,6 +860,13 @@
           "label": "Folio 30",
           "height": 4284,
           "width": 5712,
+          "thumbnail": {
+            "@id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/image00030.jpeg",
+            "@type": "dctypes:Image",
+            "format": "image/jpeg",
+            "height": 4284,
+            "width": 5712
+          },
           "images": [
             {
               "@id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p30/annotation",
@@ -674,6 +889,13 @@
           "label": "Folio 31",
           "height": 4284,
           "width": 5712,
+          "thumbnail": {
+            "@id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/image00031.jpeg",
+            "@type": "dctypes:Image",
+            "format": "image/jpeg",
+            "height": 4284,
+            "width": 5712
+          },
           "images": [
             {
               "@id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p31/annotation",
@@ -696,6 +918,13 @@
           "label": "Folio 32",
           "height": 4284,
           "width": 5712,
+          "thumbnail": {
+            "@id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/image00032.jpeg",
+            "@type": "dctypes:Image",
+            "format": "image/jpeg",
+            "height": 4284,
+            "width": 5712
+          },
           "images": [
             {
               "@id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p32/annotation",
@@ -718,6 +947,13 @@
           "label": "Folio 33",
           "height": 4284,
           "width": 5712,
+          "thumbnail": {
+            "@id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/image00033.jpeg",
+            "@type": "dctypes:Image",
+            "format": "image/jpeg",
+            "height": 4284,
+            "width": 5712
+          },
           "images": [
             {
               "@id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p33/annotation",
@@ -740,6 +976,13 @@
           "label": "Folio 34",
           "height": 4284,
           "width": 5712,
+          "thumbnail": {
+            "@id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/image00034.jpeg",
+            "@type": "dctypes:Image",
+            "format": "image/jpeg",
+            "height": 4284,
+            "width": 5712
+          },
           "images": [
             {
               "@id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p34/annotation",
@@ -762,6 +1005,13 @@
           "label": "Folio 35",
           "height": 4284,
           "width": 5712,
+          "thumbnail": {
+            "@id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/image00035.jpeg",
+            "@type": "dctypes:Image",
+            "format": "image/jpeg",
+            "height": 4284,
+            "width": 5712
+          },
           "images": [
             {
               "@id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p35/annotation",
@@ -784,6 +1034,13 @@
           "label": "Folio 36",
           "height": 4284,
           "width": 5712,
+          "thumbnail": {
+            "@id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/image00036.jpeg",
+            "@type": "dctypes:Image",
+            "format": "image/jpeg",
+            "height": 4284,
+            "width": 5712
+          },
           "images": [
             {
               "@id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p36/annotation",
@@ -806,6 +1063,13 @@
           "label": "Folio 37",
           "height": 4284,
           "width": 5712,
+          "thumbnail": {
+            "@id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/image00037.jpeg",
+            "@type": "dctypes:Image",
+            "format": "image/jpeg",
+            "height": 4284,
+            "width": 5712
+          },
           "images": [
             {
               "@id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p37/annotation",
@@ -828,6 +1092,13 @@
           "label": "Folio 38",
           "height": 4284,
           "width": 5712,
+          "thumbnail": {
+            "@id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/image00038.jpeg",
+            "@type": "dctypes:Image",
+            "format": "image/jpeg",
+            "height": 4284,
+            "width": 5712
+          },
           "images": [
             {
               "@id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p38/annotation",
@@ -850,6 +1121,13 @@
           "label": "Folio 39",
           "height": 4284,
           "width": 5712,
+          "thumbnail": {
+            "@id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/image00039.jpeg",
+            "@type": "dctypes:Image",
+            "format": "image/jpeg",
+            "height": 4284,
+            "width": 5712
+          },
           "images": [
             {
               "@id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p39/annotation",
@@ -872,6 +1150,13 @@
           "label": "Folio 40",
           "height": 4284,
           "width": 5712,
+          "thumbnail": {
+            "@id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/image00040.jpeg",
+            "@type": "dctypes:Image",
+            "format": "image/jpeg",
+            "height": 4284,
+            "width": 5712
+          },
           "images": [
             {
               "@id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p40/annotation",
@@ -894,6 +1179,13 @@
           "label": "Folio 41",
           "height": 4284,
           "width": 5712,
+          "thumbnail": {
+            "@id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/image00041.jpeg",
+            "@type": "dctypes:Image",
+            "format": "image/jpeg",
+            "height": 4284,
+            "width": 5712
+          },
           "images": [
             {
               "@id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p41/annotation",
@@ -916,6 +1208,13 @@
           "label": "Folio 42",
           "height": 4284,
           "width": 5712,
+          "thumbnail": {
+            "@id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/image00042.jpeg",
+            "@type": "dctypes:Image",
+            "format": "image/jpeg",
+            "height": 4284,
+            "width": 5712
+          },
           "images": [
             {
               "@id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p42/annotation",
@@ -938,6 +1237,13 @@
           "label": "Folio 43",
           "height": 4284,
           "width": 5712,
+          "thumbnail": {
+            "@id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/image00043.jpeg",
+            "@type": "dctypes:Image",
+            "format": "image/jpeg",
+            "height": 4284,
+            "width": 5712
+          },
           "images": [
             {
               "@id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p43/annotation",
@@ -960,6 +1266,13 @@
           "label": "Folio 44",
           "height": 4284,
           "width": 5712,
+          "thumbnail": {
+            "@id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/image00044.jpeg",
+            "@type": "dctypes:Image",
+            "format": "image/jpeg",
+            "height": 4284,
+            "width": 5712
+          },
           "images": [
             {
               "@id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p44/annotation",
@@ -982,6 +1295,13 @@
           "label": "Folio 45",
           "height": 4284,
           "width": 5712,
+          "thumbnail": {
+            "@id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/image00045.jpeg",
+            "@type": "dctypes:Image",
+            "format": "image/jpeg",
+            "height": 4284,
+            "width": 5712
+          },
           "images": [
             {
               "@id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p45/annotation",
@@ -1004,6 +1324,13 @@
           "label": "Folio 46",
           "height": 4284,
           "width": 5712,
+          "thumbnail": {
+            "@id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/image00046.jpeg",
+            "@type": "dctypes:Image",
+            "format": "image/jpeg",
+            "height": 4284,
+            "width": 5712
+          },
           "images": [
             {
               "@id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p46/annotation",
@@ -1026,6 +1353,13 @@
           "label": "Folio 47",
           "height": 4284,
           "width": 5712,
+          "thumbnail": {
+            "@id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/image00047.jpeg",
+            "@type": "dctypes:Image",
+            "format": "image/jpeg",
+            "height": 4284,
+            "width": 5712
+          },
           "images": [
             {
               "@id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p47/annotation",
@@ -1048,6 +1382,13 @@
           "label": "Folio 48",
           "height": 4284,
           "width": 5712,
+          "thumbnail": {
+            "@id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/image00048.jpeg",
+            "@type": "dctypes:Image",
+            "format": "image/jpeg",
+            "height": 4284,
+            "width": 5712
+          },
           "images": [
             {
               "@id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p48/annotation",
@@ -1070,6 +1411,13 @@
           "label": "Folio 49",
           "height": 4284,
           "width": 5712,
+          "thumbnail": {
+            "@id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/image00049.jpeg",
+            "@type": "dctypes:Image",
+            "format": "image/jpeg",
+            "height": 4284,
+            "width": 5712
+          },
           "images": [
             {
               "@id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p49/annotation",
@@ -1092,6 +1440,13 @@
           "label": "Folio 50",
           "height": 4284,
           "width": 5712,
+          "thumbnail": {
+            "@id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/image00050.jpeg",
+            "@type": "dctypes:Image",
+            "format": "image/jpeg",
+            "height": 4284,
+            "width": 5712
+          },
           "images": [
             {
               "@id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p50/annotation",
@@ -1114,6 +1469,13 @@
           "label": "Folio 51",
           "height": 4284,
           "width": 5712,
+          "thumbnail": {
+            "@id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/image00051.jpeg",
+            "@type": "dctypes:Image",
+            "format": "image/jpeg",
+            "height": 4284,
+            "width": 5712
+          },
           "images": [
             {
               "@id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p51/annotation",
@@ -1136,6 +1498,13 @@
           "label": "Folio 52",
           "height": 4284,
           "width": 5712,
+          "thumbnail": {
+            "@id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/image00052.jpeg",
+            "@type": "dctypes:Image",
+            "format": "image/jpeg",
+            "height": 4284,
+            "width": 5712
+          },
           "images": [
             {
               "@id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p52/annotation",
@@ -1158,6 +1527,13 @@
           "label": "Folio 53",
           "height": 4284,
           "width": 5712,
+          "thumbnail": {
+            "@id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/image00053.jpeg",
+            "@type": "dctypes:Image",
+            "format": "image/jpeg",
+            "height": 4284,
+            "width": 5712
+          },
           "images": [
             {
               "@id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p53/annotation",
@@ -1180,6 +1556,13 @@
           "label": "Folio 54",
           "height": 4284,
           "width": 5712,
+          "thumbnail": {
+            "@id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/image00054.jpeg",
+            "@type": "dctypes:Image",
+            "format": "image/jpeg",
+            "height": 4284,
+            "width": 5712
+          },
           "images": [
             {
               "@id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p54/annotation",
@@ -1202,6 +1585,13 @@
           "label": "Folio 55",
           "height": 4284,
           "width": 5712,
+          "thumbnail": {
+            "@id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/image00055.jpeg",
+            "@type": "dctypes:Image",
+            "format": "image/jpeg",
+            "height": 4284,
+            "width": 5712
+          },
           "images": [
             {
               "@id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p55/annotation",
@@ -1224,6 +1614,13 @@
           "label": "Folio 56",
           "height": 4284,
           "width": 5712,
+          "thumbnail": {
+            "@id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/image00056.jpeg",
+            "@type": "dctypes:Image",
+            "format": "image/jpeg",
+            "height": 4284,
+            "width": 5712
+          },
           "images": [
             {
               "@id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p56/annotation",
@@ -1246,6 +1643,13 @@
           "label": "Folio 57",
           "height": 4284,
           "width": 5712,
+          "thumbnail": {
+            "@id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/image00057.jpeg",
+            "@type": "dctypes:Image",
+            "format": "image/jpeg",
+            "height": 4284,
+            "width": 5712
+          },
           "images": [
             {
               "@id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p57/annotation",
@@ -1268,6 +1672,13 @@
           "label": "Folio 58",
           "height": 4284,
           "width": 5712,
+          "thumbnail": {
+            "@id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/image00058.jpeg",
+            "@type": "dctypes:Image",
+            "format": "image/jpeg",
+            "height": 4284,
+            "width": 5712
+          },
           "images": [
             {
               "@id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p58/annotation",
@@ -1290,6 +1701,13 @@
           "label": "Folio 59",
           "height": 4284,
           "width": 5712,
+          "thumbnail": {
+            "@id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/image00059.jpeg",
+            "@type": "dctypes:Image",
+            "format": "image/jpeg",
+            "height": 4284,
+            "width": 5712
+          },
           "images": [
             {
               "@id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p59/annotation",
@@ -1312,6 +1730,13 @@
           "label": "Folio 60",
           "height": 4284,
           "width": 5712,
+          "thumbnail": {
+            "@id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/image00060.jpeg",
+            "@type": "dctypes:Image",
+            "format": "image/jpeg",
+            "height": 4284,
+            "width": 5712
+          },
           "images": [
             {
               "@id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p60/annotation",
@@ -1334,6 +1759,13 @@
           "label": "Folio 61",
           "height": 4284,
           "width": 5712,
+          "thumbnail": {
+            "@id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/image00061.jpeg",
+            "@type": "dctypes:Image",
+            "format": "image/jpeg",
+            "height": 4284,
+            "width": 5712
+          },
           "images": [
             {
               "@id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p61/annotation",
@@ -1356,6 +1788,13 @@
           "label": "Folio 62",
           "height": 4284,
           "width": 5712,
+          "thumbnail": {
+            "@id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/image00062.jpeg",
+            "@type": "dctypes:Image",
+            "format": "image/jpeg",
+            "height": 4284,
+            "width": 5712
+          },
           "images": [
             {
               "@id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p62/annotation",
@@ -1378,6 +1817,13 @@
           "label": "Folio 63",
           "height": 4284,
           "width": 5712,
+          "thumbnail": {
+            "@id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/image00063.jpeg",
+            "@type": "dctypes:Image",
+            "format": "image/jpeg",
+            "height": 4284,
+            "width": 5712
+          },
           "images": [
             {
               "@id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p63/annotation",
@@ -1400,6 +1846,13 @@
           "label": "Folio 64",
           "height": 4284,
           "width": 5712,
+          "thumbnail": {
+            "@id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/image00064.jpeg",
+            "@type": "dctypes:Image",
+            "format": "image/jpeg",
+            "height": 4284,
+            "width": 5712
+          },
           "images": [
             {
               "@id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p64/annotation",
@@ -1422,6 +1875,13 @@
           "label": "Folio 65",
           "height": 4284,
           "width": 5712,
+          "thumbnail": {
+            "@id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/image00065.jpeg",
+            "@type": "dctypes:Image",
+            "format": "image/jpeg",
+            "height": 4284,
+            "width": 5712
+          },
           "images": [
             {
               "@id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p65/annotation",
@@ -1444,6 +1904,13 @@
           "label": "Folio 66",
           "height": 4284,
           "width": 5712,
+          "thumbnail": {
+            "@id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/image00066.jpeg",
+            "@type": "dctypes:Image",
+            "format": "image/jpeg",
+            "height": 4284,
+            "width": 5712
+          },
           "images": [
             {
               "@id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p66/annotation",
@@ -1466,6 +1933,13 @@
           "label": "Folio 67",
           "height": 4284,
           "width": 5712,
+          "thumbnail": {
+            "@id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/image00067.jpeg",
+            "@type": "dctypes:Image",
+            "format": "image/jpeg",
+            "height": 4284,
+            "width": 5712
+          },
           "images": [
             {
               "@id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p67/annotation",
@@ -1488,6 +1962,13 @@
           "label": "Folio 68",
           "height": 4284,
           "width": 5712,
+          "thumbnail": {
+            "@id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/image00068.jpeg",
+            "@type": "dctypes:Image",
+            "format": "image/jpeg",
+            "height": 4284,
+            "width": 5712
+          },
           "images": [
             {
               "@id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p68/annotation",
@@ -1510,6 +1991,13 @@
           "label": "Folio 69",
           "height": 4284,
           "width": 5712,
+          "thumbnail": {
+            "@id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/image00069.jpeg",
+            "@type": "dctypes:Image",
+            "format": "image/jpeg",
+            "height": 4284,
+            "width": 5712
+          },
           "images": [
             {
               "@id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p69/annotation",
@@ -1532,6 +2020,13 @@
           "label": "Folio 70",
           "height": 4284,
           "width": 5712,
+          "thumbnail": {
+            "@id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/image00070.jpeg",
+            "@type": "dctypes:Image",
+            "format": "image/jpeg",
+            "height": 4284,
+            "width": 5712
+          },
           "images": [
             {
               "@id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p70/annotation",
@@ -1554,6 +2049,13 @@
           "label": "Folio 71",
           "height": 4284,
           "width": 5712,
+          "thumbnail": {
+            "@id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/image00071.jpeg",
+            "@type": "dctypes:Image",
+            "format": "image/jpeg",
+            "height": 4284,
+            "width": 5712
+          },
           "images": [
             {
               "@id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p71/annotation",
@@ -1576,6 +2078,13 @@
           "label": "Folio 72",
           "height": 4284,
           "width": 5712,
+          "thumbnail": {
+            "@id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/image00072.jpeg",
+            "@type": "dctypes:Image",
+            "format": "image/jpeg",
+            "height": 4284,
+            "width": 5712
+          },
           "images": [
             {
               "@id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p72/annotation",
@@ -1598,6 +2107,13 @@
           "label": "Folio 73",
           "height": 4284,
           "width": 5712,
+          "thumbnail": {
+            "@id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/image00073.jpeg",
+            "@type": "dctypes:Image",
+            "format": "image/jpeg",
+            "height": 4284,
+            "width": 5712
+          },
           "images": [
             {
               "@id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p73/annotation",
@@ -1620,6 +2136,13 @@
           "label": "Folio 74",
           "height": 4284,
           "width": 5712,
+          "thumbnail": {
+            "@id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/image00074.jpeg",
+            "@type": "dctypes:Image",
+            "format": "image/jpeg",
+            "height": 4284,
+            "width": 5712
+          },
           "images": [
             {
               "@id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p74/annotation",
@@ -1642,6 +2165,13 @@
           "label": "Folio 75",
           "height": 4284,
           "width": 5712,
+          "thumbnail": {
+            "@id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/image00075.jpeg",
+            "@type": "dctypes:Image",
+            "format": "image/jpeg",
+            "height": 4284,
+            "width": 5712
+          },
           "images": [
             {
               "@id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p75/annotation",
@@ -1664,6 +2194,13 @@
           "label": "Folio 76",
           "height": 4284,
           "width": 5712,
+          "thumbnail": {
+            "@id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/image00076.jpeg",
+            "@type": "dctypes:Image",
+            "format": "image/jpeg",
+            "height": 4284,
+            "width": 5712
+          },
           "images": [
             {
               "@id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p76/annotation",
@@ -1686,6 +2223,13 @@
           "label": "Folio 77",
           "height": 4284,
           "width": 5712,
+          "thumbnail": {
+            "@id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/image00077.jpeg",
+            "@type": "dctypes:Image",
+            "format": "image/jpeg",
+            "height": 4284,
+            "width": 5712
+          },
           "images": [
             {
               "@id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p77/annotation",
@@ -1708,6 +2252,13 @@
           "label": "Folio 78",
           "height": 4284,
           "width": 5712,
+          "thumbnail": {
+            "@id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/image00078.jpeg",
+            "@type": "dctypes:Image",
+            "format": "image/jpeg",
+            "height": 4284,
+            "width": 5712
+          },
           "images": [
             {
               "@id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p78/annotation",
@@ -1730,6 +2281,13 @@
           "label": "Folio 79",
           "height": 4284,
           "width": 5712,
+          "thumbnail": {
+            "@id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/image00079.jpeg",
+            "@type": "dctypes:Image",
+            "format": "image/jpeg",
+            "height": 4284,
+            "width": 5712
+          },
           "images": [
             {
               "@id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p79/annotation",
@@ -1752,6 +2310,13 @@
           "label": "Folio 80",
           "height": 4284,
           "width": 5712,
+          "thumbnail": {
+            "@id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/image00080.jpeg",
+            "@type": "dctypes:Image",
+            "format": "image/jpeg",
+            "height": 4284,
+            "width": 5712
+          },
           "images": [
             {
               "@id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p80/annotation",
@@ -1774,6 +2339,13 @@
           "label": "Folio 81",
           "height": 4284,
           "width": 5712,
+          "thumbnail": {
+            "@id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/image00081.jpeg",
+            "@type": "dctypes:Image",
+            "format": "image/jpeg",
+            "height": 4284,
+            "width": 5712
+          },
           "images": [
             {
               "@id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p81/annotation",
@@ -1796,6 +2368,13 @@
           "label": "Folio 82",
           "height": 4284,
           "width": 5712,
+          "thumbnail": {
+            "@id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/image00082.jpeg",
+            "@type": "dctypes:Image",
+            "format": "image/jpeg",
+            "height": 4284,
+            "width": 5712
+          },
           "images": [
             {
               "@id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p82/annotation",
@@ -1818,6 +2397,13 @@
           "label": "Folio 83",
           "height": 4284,
           "width": 5712,
+          "thumbnail": {
+            "@id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/image00083.jpeg",
+            "@type": "dctypes:Image",
+            "format": "image/jpeg",
+            "height": 4284,
+            "width": 5712
+          },
           "images": [
             {
               "@id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p83/annotation",
@@ -1840,6 +2426,13 @@
           "label": "Folio 84",
           "height": 4284,
           "width": 5712,
+          "thumbnail": {
+            "@id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/image00084.jpeg",
+            "@type": "dctypes:Image",
+            "format": "image/jpeg",
+            "height": 4284,
+            "width": 5712
+          },
           "images": [
             {
               "@id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p84/annotation",
@@ -1862,6 +2455,13 @@
           "label": "Folio 85",
           "height": 4284,
           "width": 5712,
+          "thumbnail": {
+            "@id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/image00085.jpeg",
+            "@type": "dctypes:Image",
+            "format": "image/jpeg",
+            "height": 4284,
+            "width": 5712
+          },
           "images": [
             {
               "@id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p85/annotation",
@@ -1884,6 +2484,13 @@
           "label": "Folio 86",
           "height": 4284,
           "width": 5712,
+          "thumbnail": {
+            "@id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/image00086.jpeg",
+            "@type": "dctypes:Image",
+            "format": "image/jpeg",
+            "height": 4284,
+            "width": 5712
+          },
           "images": [
             {
               "@id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p86/annotation",
@@ -1906,6 +2513,13 @@
           "label": "Folio 87",
           "height": 4284,
           "width": 5712,
+          "thumbnail": {
+            "@id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/image00087.jpeg",
+            "@type": "dctypes:Image",
+            "format": "image/jpeg",
+            "height": 4284,
+            "width": 5712
+          },
           "images": [
             {
               "@id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p87/annotation",
@@ -1928,6 +2542,13 @@
           "label": "Folio 88",
           "height": 4284,
           "width": 5712,
+          "thumbnail": {
+            "@id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/image00088.jpeg",
+            "@type": "dctypes:Image",
+            "format": "image/jpeg",
+            "height": 4284,
+            "width": 5712
+          },
           "images": [
             {
               "@id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p88/annotation",
@@ -1950,6 +2571,13 @@
           "label": "Folio 89",
           "height": 4284,
           "width": 5712,
+          "thumbnail": {
+            "@id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/image00089.jpeg",
+            "@type": "dctypes:Image",
+            "format": "image/jpeg",
+            "height": 4284,
+            "width": 5712
+          },
           "images": [
             {
               "@id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p89/annotation",
@@ -1972,6 +2600,13 @@
           "label": "Folio 90",
           "height": 4284,
           "width": 5712,
+          "thumbnail": {
+            "@id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/image00090.jpeg",
+            "@type": "dctypes:Image",
+            "format": "image/jpeg",
+            "height": 4284,
+            "width": 5712
+          },
           "images": [
             {
               "@id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p90/annotation",
@@ -1994,6 +2629,13 @@
           "label": "Folio 91",
           "height": 4284,
           "width": 5712,
+          "thumbnail": {
+            "@id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/image00091.jpeg",
+            "@type": "dctypes:Image",
+            "format": "image/jpeg",
+            "height": 4284,
+            "width": 5712
+          },
           "images": [
             {
               "@id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p91/annotation",
@@ -2016,6 +2658,13 @@
           "label": "Folio 92",
           "height": 4284,
           "width": 5712,
+          "thumbnail": {
+            "@id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/image00092.jpeg",
+            "@type": "dctypes:Image",
+            "format": "image/jpeg",
+            "height": 4284,
+            "width": 5712
+          },
           "images": [
             {
               "@id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p92/annotation",
@@ -2038,6 +2687,13 @@
           "label": "Folio 93",
           "height": 4284,
           "width": 5712,
+          "thumbnail": {
+            "@id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/image00093.jpeg",
+            "@type": "dctypes:Image",
+            "format": "image/jpeg",
+            "height": 4284,
+            "width": 5712
+          },
           "images": [
             {
               "@id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p93/annotation",
@@ -2060,6 +2716,13 @@
           "label": "Folio 94",
           "height": 4284,
           "width": 5712,
+          "thumbnail": {
+            "@id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/image00094.jpeg",
+            "@type": "dctypes:Image",
+            "format": "image/jpeg",
+            "height": 4284,
+            "width": 5712
+          },
           "images": [
             {
               "@id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p94/annotation",
@@ -2082,6 +2745,13 @@
           "label": "Folio 95",
           "height": 4284,
           "width": 5712,
+          "thumbnail": {
+            "@id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/image00095.jpeg",
+            "@type": "dctypes:Image",
+            "format": "image/jpeg",
+            "height": 4284,
+            "width": 5712
+          },
           "images": [
             {
               "@id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p95/annotation",
@@ -2104,6 +2774,13 @@
           "label": "Folio 96",
           "height": 4284,
           "width": 5712,
+          "thumbnail": {
+            "@id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/image00096.jpeg",
+            "@type": "dctypes:Image",
+            "format": "image/jpeg",
+            "height": 4284,
+            "width": 5712
+          },
           "images": [
             {
               "@id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p96/annotation",
@@ -2126,6 +2803,13 @@
           "label": "Folio 97",
           "height": 4284,
           "width": 5712,
+          "thumbnail": {
+            "@id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/image00097.jpeg",
+            "@type": "dctypes:Image",
+            "format": "image/jpeg",
+            "height": 4284,
+            "width": 5712
+          },
           "images": [
             {
               "@id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p97/annotation",
@@ -2148,6 +2832,13 @@
           "label": "Folio 98",
           "height": 4284,
           "width": 5712,
+          "thumbnail": {
+            "@id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/image00098.jpeg",
+            "@type": "dctypes:Image",
+            "format": "image/jpeg",
+            "height": 4284,
+            "width": 5712
+          },
           "images": [
             {
               "@id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p98/annotation",
@@ -2170,6 +2861,13 @@
           "label": "Folio 99",
           "height": 4284,
           "width": 5712,
+          "thumbnail": {
+            "@id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/image00099.jpeg",
+            "@type": "dctypes:Image",
+            "format": "image/jpeg",
+            "height": 4284,
+            "width": 5712
+          },
           "images": [
             {
               "@id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p99/annotation",
@@ -2192,6 +2890,13 @@
           "label": "Folio 100",
           "height": 4284,
           "width": 5712,
+          "thumbnail": {
+            "@id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/image00100.jpeg",
+            "@type": "dctypes:Image",
+            "format": "image/jpeg",
+            "height": 4284,
+            "width": 5712
+          },
           "images": [
             {
               "@id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p100/annotation",
@@ -2214,6 +2919,13 @@
           "label": "Folio 101",
           "height": 4284,
           "width": 5712,
+          "thumbnail": {
+            "@id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/image00101.jpeg",
+            "@type": "dctypes:Image",
+            "format": "image/jpeg",
+            "height": 4284,
+            "width": 5712
+          },
           "images": [
             {
               "@id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p101/annotation",
@@ -2236,6 +2948,13 @@
           "label": "Folio 102",
           "height": 4284,
           "width": 5712,
+          "thumbnail": {
+            "@id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/image00102.jpeg",
+            "@type": "dctypes:Image",
+            "format": "image/jpeg",
+            "height": 4284,
+            "width": 5712
+          },
           "images": [
             {
               "@id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p102/annotation",
@@ -2258,6 +2977,13 @@
           "label": "Folio 103",
           "height": 4284,
           "width": 5712,
+          "thumbnail": {
+            "@id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/image00103.jpeg",
+            "@type": "dctypes:Image",
+            "format": "image/jpeg",
+            "height": 4284,
+            "width": 5712
+          },
           "images": [
             {
               "@id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p103/annotation",
@@ -2280,6 +3006,13 @@
           "label": "Folio 104",
           "height": 4284,
           "width": 5712,
+          "thumbnail": {
+            "@id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/image00104.jpeg",
+            "@type": "dctypes:Image",
+            "format": "image/jpeg",
+            "height": 4284,
+            "width": 5712
+          },
           "images": [
             {
               "@id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p104/annotation",
@@ -2302,6 +3035,13 @@
           "label": "Folio 105",
           "height": 4284,
           "width": 5712,
+          "thumbnail": {
+            "@id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/image00105.jpeg",
+            "@type": "dctypes:Image",
+            "format": "image/jpeg",
+            "height": 4284,
+            "width": 5712
+          },
           "images": [
             {
               "@id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p105/annotation",
@@ -2324,6 +3064,13 @@
           "label": "Folio 106",
           "height": 4284,
           "width": 5712,
+          "thumbnail": {
+            "@id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/image00106.jpeg",
+            "@type": "dctypes:Image",
+            "format": "image/jpeg",
+            "height": 4284,
+            "width": 5712
+          },
           "images": [
             {
               "@id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p106/annotation",
@@ -2346,6 +3093,13 @@
           "label": "Folio 107",
           "height": 4284,
           "width": 5712,
+          "thumbnail": {
+            "@id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/image00107.jpeg",
+            "@type": "dctypes:Image",
+            "format": "image/jpeg",
+            "height": 4284,
+            "width": 5712
+          },
           "images": [
             {
               "@id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p107/annotation",
@@ -2368,6 +3122,13 @@
           "label": "Folio 108",
           "height": 4284,
           "width": 5712,
+          "thumbnail": {
+            "@id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/image00108.jpeg",
+            "@type": "dctypes:Image",
+            "format": "image/jpeg",
+            "height": 4284,
+            "width": 5712
+          },
           "images": [
             {
               "@id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p108/annotation",
@@ -2390,6 +3151,13 @@
           "label": "Folio 109",
           "height": 4284,
           "width": 5712,
+          "thumbnail": {
+            "@id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/image00109.jpeg",
+            "@type": "dctypes:Image",
+            "format": "image/jpeg",
+            "height": 4284,
+            "width": 5712
+          },
           "images": [
             {
               "@id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p109/annotation",
@@ -2412,6 +3180,13 @@
           "label": "Folio 110",
           "height": 4284,
           "width": 5712,
+          "thumbnail": {
+            "@id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/image00110.jpeg",
+            "@type": "dctypes:Image",
+            "format": "image/jpeg",
+            "height": 4284,
+            "width": 5712
+          },
           "images": [
             {
               "@id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p110/annotation",
@@ -2434,6 +3209,13 @@
           "label": "Folio 111",
           "height": 4284,
           "width": 5712,
+          "thumbnail": {
+            "@id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/image00111.jpeg",
+            "@type": "dctypes:Image",
+            "format": "image/jpeg",
+            "height": 4284,
+            "width": 5712
+          },
           "images": [
             {
               "@id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p111/annotation",
@@ -2456,6 +3238,13 @@
           "label": "Folio 112",
           "height": 3024,
           "width": 4032,
+          "thumbnail": {
+            "@id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/image00112.jpeg",
+            "@type": "dctypes:Image",
+            "format": "image/jpeg",
+            "height": 3024,
+            "width": 4032
+          },
           "images": [
             {
               "@id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p112/annotation",
@@ -2478,6 +3267,13 @@
           "label": "Folio 113",
           "height": 4284,
           "width": 5712,
+          "thumbnail": {
+            "@id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/image00113.jpeg",
+            "@type": "dctypes:Image",
+            "format": "image/jpeg",
+            "height": 4284,
+            "width": 5712
+          },
           "images": [
             {
               "@id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p113/annotation",
@@ -2500,6 +3296,13 @@
           "label": "Folio 114",
           "height": 4284,
           "width": 5712,
+          "thumbnail": {
+            "@id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/image00114.jpeg",
+            "@type": "dctypes:Image",
+            "format": "image/jpeg",
+            "height": 4284,
+            "width": 5712
+          },
           "images": [
             {
               "@id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p114/annotation",
@@ -2522,6 +3325,13 @@
           "label": "Folio 115",
           "height": 3024,
           "width": 4032,
+          "thumbnail": {
+            "@id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/image00115.jpeg",
+            "@type": "dctypes:Image",
+            "format": "image/jpeg",
+            "height": 3024,
+            "width": 4032
+          },
           "images": [
             {
               "@id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p115/annotation",
@@ -2544,6 +3354,13 @@
           "label": "Folio 116",
           "height": 3024,
           "width": 4032,
+          "thumbnail": {
+            "@id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/image00116.jpeg",
+            "@type": "dctypes:Image",
+            "format": "image/jpeg",
+            "height": 3024,
+            "width": 4032
+          },
           "images": [
             {
               "@id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p116/annotation",
@@ -2566,6 +3383,13 @@
           "label": "Folio 117",
           "height": 3024,
           "width": 4032,
+          "thumbnail": {
+            "@id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/image00117.jpeg",
+            "@type": "dctypes:Image",
+            "format": "image/jpeg",
+            "height": 3024,
+            "width": 4032
+          },
           "images": [
             {
               "@id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p117/annotation",
@@ -2588,6 +3412,13 @@
           "label": "Folio 118",
           "height": 3024,
           "width": 4032,
+          "thumbnail": {
+            "@id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/image00118.jpeg",
+            "@type": "dctypes:Image",
+            "format": "image/jpeg",
+            "height": 3024,
+            "width": 4032
+          },
           "images": [
             {
               "@id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p118/annotation",
@@ -2610,6 +3441,13 @@
           "label": "Folio 119",
           "height": 3024,
           "width": 4032,
+          "thumbnail": {
+            "@id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/image00119.jpeg",
+            "@type": "dctypes:Image",
+            "format": "image/jpeg",
+            "height": 3024,
+            "width": 4032
+          },
           "images": [
             {
               "@id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p119/annotation",
@@ -2632,6 +3470,13 @@
           "label": "Folio 120",
           "height": 3024,
           "width": 4032,
+          "thumbnail": {
+            "@id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/image00120.jpeg",
+            "@type": "dctypes:Image",
+            "format": "image/jpeg",
+            "height": 3024,
+            "width": 4032
+          },
           "images": [
             {
               "@id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p120/annotation",
@@ -2654,6 +3499,13 @@
           "label": "Folio 121",
           "height": 3024,
           "width": 4032,
+          "thumbnail": {
+            "@id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/image00121.jpeg",
+            "@type": "dctypes:Image",
+            "format": "image/jpeg",
+            "height": 3024,
+            "width": 4032
+          },
           "images": [
             {
               "@id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p121/annotation",
@@ -2676,6 +3528,13 @@
           "label": "Folio 122",
           "height": 3024,
           "width": 4032,
+          "thumbnail": {
+            "@id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/image00122.jpeg",
+            "@type": "dctypes:Image",
+            "format": "image/jpeg",
+            "height": 3024,
+            "width": 4032
+          },
           "images": [
             {
               "@id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p122/annotation",
@@ -2698,6 +3557,13 @@
           "label": "Folio 123",
           "height": 3024,
           "width": 4032,
+          "thumbnail": {
+            "@id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/image00123.jpeg",
+            "@type": "dctypes:Image",
+            "format": "image/jpeg",
+            "height": 3024,
+            "width": 4032
+          },
           "images": [
             {
               "@id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p123/annotation",
@@ -2720,6 +3586,13 @@
           "label": "Folio 124",
           "height": 3024,
           "width": 4032,
+          "thumbnail": {
+            "@id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/image00124.jpeg",
+            "@type": "dctypes:Image",
+            "format": "image/jpeg",
+            "height": 3024,
+            "width": 4032
+          },
           "images": [
             {
               "@id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p124/annotation",
@@ -2742,6 +3615,13 @@
           "label": "Folio 125",
           "height": 3024,
           "width": 4032,
+          "thumbnail": {
+            "@id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/image00125.jpeg",
+            "@type": "dctypes:Image",
+            "format": "image/jpeg",
+            "height": 3024,
+            "width": 4032
+          },
           "images": [
             {
               "@id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p125/annotation",
@@ -2764,6 +3644,13 @@
           "label": "Folio 126",
           "height": 3024,
           "width": 4032,
+          "thumbnail": {
+            "@id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/image00126.jpeg",
+            "@type": "dctypes:Image",
+            "format": "image/jpeg",
+            "height": 3024,
+            "width": 4032
+          },
           "images": [
             {
               "@id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p126/annotation",
@@ -2786,6 +3673,13 @@
           "label": "Folio 127",
           "height": 3024,
           "width": 4032,
+          "thumbnail": {
+            "@id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/image00127.jpeg",
+            "@type": "dctypes:Image",
+            "format": "image/jpeg",
+            "height": 3024,
+            "width": 4032
+          },
           "images": [
             {
               "@id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p127/annotation",
@@ -2808,6 +3702,13 @@
           "label": "Folio 128",
           "height": 3024,
           "width": 4032,
+          "thumbnail": {
+            "@id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/image00128.jpeg",
+            "@type": "dctypes:Image",
+            "format": "image/jpeg",
+            "height": 3024,
+            "width": 4032
+          },
           "images": [
             {
               "@id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p128/annotation",
@@ -2830,6 +3731,13 @@
           "label": "Folio 129",
           "height": 3024,
           "width": 4032,
+          "thumbnail": {
+            "@id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/image00129.jpeg",
+            "@type": "dctypes:Image",
+            "format": "image/jpeg",
+            "height": 3024,
+            "width": 4032
+          },
           "images": [
             {
               "@id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p129/annotation",
@@ -2852,6 +3760,13 @@
           "label": "Folio 130",
           "height": 3024,
           "width": 4032,
+          "thumbnail": {
+            "@id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/image00130.jpeg",
+            "@type": "dctypes:Image",
+            "format": "image/jpeg",
+            "height": 3024,
+            "width": 4032
+          },
           "images": [
             {
               "@id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p130/annotation",
@@ -2874,6 +3789,13 @@
           "label": "Folio 131",
           "height": 3024,
           "width": 4032,
+          "thumbnail": {
+            "@id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/image00131.jpeg",
+            "@type": "dctypes:Image",
+            "format": "image/jpeg",
+            "height": 3024,
+            "width": 4032
+          },
           "images": [
             {
               "@id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p131/annotation",
@@ -2896,6 +3818,13 @@
           "label": "Folio 132",
           "height": 3024,
           "width": 4032,
+          "thumbnail": {
+            "@id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/image00132.jpeg",
+            "@type": "dctypes:Image",
+            "format": "image/jpeg",
+            "height": 3024,
+            "width": 4032
+          },
           "images": [
             {
               "@id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p132/annotation",
@@ -2918,6 +3847,13 @@
           "label": "Folio 133",
           "height": 3024,
           "width": 4032,
+          "thumbnail": {
+            "@id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/image00133.jpeg",
+            "@type": "dctypes:Image",
+            "format": "image/jpeg",
+            "height": 3024,
+            "width": 4032
+          },
           "images": [
             {
               "@id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p133/annotation",
@@ -2940,6 +3876,13 @@
           "label": "Folio 134",
           "height": 3024,
           "width": 4032,
+          "thumbnail": {
+            "@id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/image00134.jpeg",
+            "@type": "dctypes:Image",
+            "format": "image/jpeg",
+            "height": 3024,
+            "width": 4032
+          },
           "images": [
             {
               "@id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p134/annotation",
@@ -2962,6 +3905,13 @@
           "label": "Folio 135",
           "height": 3024,
           "width": 4032,
+          "thumbnail": {
+            "@id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/image00135.jpeg",
+            "@type": "dctypes:Image",
+            "format": "image/jpeg",
+            "height": 3024,
+            "width": 4032
+          },
           "images": [
             {
               "@id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p135/annotation",
@@ -2984,6 +3934,13 @@
           "label": "Folio 136",
           "height": 3024,
           "width": 4032,
+          "thumbnail": {
+            "@id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/image00136.jpeg",
+            "@type": "dctypes:Image",
+            "format": "image/jpeg",
+            "height": 3024,
+            "width": 4032
+          },
           "images": [
             {
               "@id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p136/annotation",
@@ -3006,6 +3963,13 @@
           "label": "Folio 137",
           "height": 3024,
           "width": 4032,
+          "thumbnail": {
+            "@id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/image00137.jpeg",
+            "@type": "dctypes:Image",
+            "format": "image/jpeg",
+            "height": 3024,
+            "width": 4032
+          },
           "images": [
             {
               "@id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p137/annotation",
@@ -3028,6 +3992,13 @@
           "label": "Folio 138",
           "height": 3024,
           "width": 4032,
+          "thumbnail": {
+            "@id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/image00138.jpeg",
+            "@type": "dctypes:Image",
+            "format": "image/jpeg",
+            "height": 3024,
+            "width": 4032
+          },
           "images": [
             {
               "@id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p138/annotation",
@@ -3050,6 +4021,13 @@
           "label": "Folio 139",
           "height": 3024,
           "width": 4032,
+          "thumbnail": {
+            "@id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/image00139.jpeg",
+            "@type": "dctypes:Image",
+            "format": "image/jpeg",
+            "height": 3024,
+            "width": 4032
+          },
           "images": [
             {
               "@id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p139/annotation",
@@ -3072,6 +4050,13 @@
           "label": "Folio 140",
           "height": 3024,
           "width": 4032,
+          "thumbnail": {
+            "@id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/image00140.jpeg",
+            "@type": "dctypes:Image",
+            "format": "image/jpeg",
+            "height": 3024,
+            "width": 4032
+          },
           "images": [
             {
               "@id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p140/annotation",
@@ -3094,6 +4079,13 @@
           "label": "Folio 141",
           "height": 3024,
           "width": 4032,
+          "thumbnail": {
+            "@id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/image00141.jpeg",
+            "@type": "dctypes:Image",
+            "format": "image/jpeg",
+            "height": 3024,
+            "width": 4032
+          },
           "images": [
             {
               "@id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p141/annotation",
@@ -3116,6 +4108,13 @@
           "label": "Folio 142",
           "height": 3024,
           "width": 4032,
+          "thumbnail": {
+            "@id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/image00142.jpeg",
+            "@type": "dctypes:Image",
+            "format": "image/jpeg",
+            "height": 3024,
+            "width": 4032
+          },
           "images": [
             {
               "@id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p142/annotation",
@@ -3138,6 +4137,13 @@
           "label": "Folio 143",
           "height": 3024,
           "width": 4032,
+          "thumbnail": {
+            "@id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/image00143.jpeg",
+            "@type": "dctypes:Image",
+            "format": "image/jpeg",
+            "height": 3024,
+            "width": 4032
+          },
           "images": [
             {
               "@id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p143/annotation",
@@ -3160,6 +4166,13 @@
           "label": "Folio 144",
           "height": 3024,
           "width": 4032,
+          "thumbnail": {
+            "@id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/image00144.jpeg",
+            "@type": "dctypes:Image",
+            "format": "image/jpeg",
+            "height": 3024,
+            "width": 4032
+          },
           "images": [
             {
               "@id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p144/annotation",
@@ -3182,6 +4195,13 @@
           "label": "Folio 145",
           "height": 3024,
           "width": 4032,
+          "thumbnail": {
+            "@id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/image00145.jpeg",
+            "@type": "dctypes:Image",
+            "format": "image/jpeg",
+            "height": 3024,
+            "width": 4032
+          },
           "images": [
             {
               "@id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p145/annotation",
@@ -3204,6 +4224,13 @@
           "label": "Folio 146",
           "height": 3024,
           "width": 4032,
+          "thumbnail": {
+            "@id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/image00146.jpeg",
+            "@type": "dctypes:Image",
+            "format": "image/jpeg",
+            "height": 3024,
+            "width": 4032
+          },
           "images": [
             {
               "@id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p146/annotation",
@@ -3226,6 +4253,13 @@
           "label": "Folio 147",
           "height": 4284,
           "width": 5712,
+          "thumbnail": {
+            "@id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/image00147.jpeg",
+            "@type": "dctypes:Image",
+            "format": "image/jpeg",
+            "height": 4284,
+            "width": 5712
+          },
           "images": [
             {
               "@id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p147/annotation",
@@ -3248,6 +4282,13 @@
           "label": "Folio 148",
           "height": 4284,
           "width": 5712,
+          "thumbnail": {
+            "@id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/image00148.jpeg",
+            "@type": "dctypes:Image",
+            "format": "image/jpeg",
+            "height": 4284,
+            "width": 5712
+          },
           "images": [
             {
               "@id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p148/annotation",
@@ -3270,6 +4311,13 @@
           "label": "Folio 149",
           "height": 4284,
           "width": 5712,
+          "thumbnail": {
+            "@id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/image00149.jpeg",
+            "@type": "dctypes:Image",
+            "format": "image/jpeg",
+            "height": 4284,
+            "width": 5712
+          },
           "images": [
             {
               "@id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p149/annotation",
@@ -3292,6 +4340,13 @@
           "label": "Folio 150",
           "height": 4284,
           "width": 5712,
+          "thumbnail": {
+            "@id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/image00150.jpeg",
+            "@type": "dctypes:Image",
+            "format": "image/jpeg",
+            "height": 4284,
+            "width": 5712
+          },
           "images": [
             {
               "@id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p150/annotation",
@@ -3314,6 +4369,13 @@
           "label": "Folio 151",
           "height": 4284,
           "width": 5712,
+          "thumbnail": {
+            "@id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/image00151.jpeg",
+            "@type": "dctypes:Image",
+            "format": "image/jpeg",
+            "height": 4284,
+            "width": 5712
+          },
           "images": [
             {
               "@id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p151/annotation",
@@ -3336,6 +4398,13 @@
           "label": "Folio 152",
           "height": 4284,
           "width": 5712,
+          "thumbnail": {
+            "@id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/image00152.jpeg",
+            "@type": "dctypes:Image",
+            "format": "image/jpeg",
+            "height": 4284,
+            "width": 5712
+          },
           "images": [
             {
               "@id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p152/annotation",
@@ -3358,6 +4427,13 @@
           "label": "Folio 153",
           "height": 4284,
           "width": 5712,
+          "thumbnail": {
+            "@id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/image00153.jpeg",
+            "@type": "dctypes:Image",
+            "format": "image/jpeg",
+            "height": 4284,
+            "width": 5712
+          },
           "images": [
             {
               "@id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p153/annotation",
