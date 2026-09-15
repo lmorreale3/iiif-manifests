@@ -1,0 +1,4911 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/manifest.json",
+  "type": "Manifest",
+  "label": {
+    "en": [
+      "LOC OWH MS 22"
+    ]
+  },
+  "behavior": [
+    "paged"
+  ],
+  "items": [
+    {
+      "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p1",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Folio 1r"
+        ]
+      },
+      "height": 1500,
+      "width": 1000,
+      "items": [
+        {
+          "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p1/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p1/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/image00001.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1000
+              },
+              "target": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p2",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Folio 1v"
+        ]
+      },
+      "height": 1500,
+      "width": 1000,
+      "items": [
+        {
+          "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p2/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p2/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/image00002.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1000
+              },
+              "target": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p3",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Folio 3r"
+        ]
+      },
+      "height": 1500,
+      "width": 1000,
+      "items": [
+        {
+          "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p3/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p3/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/image00003.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1000
+              },
+              "target": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p3"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p4",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Folio 2v"
+        ]
+      },
+      "height": 1500,
+      "width": 1000,
+      "items": [
+        {
+          "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p4/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p4/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/image00004.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1000
+              },
+              "target": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p4"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p5",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Folio 5r"
+        ]
+      },
+      "height": 1500,
+      "width": 1000,
+      "items": [
+        {
+          "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p5/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p5/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/image00005.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1000
+              },
+              "target": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p5"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p6",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Folio 3v"
+        ]
+      },
+      "height": 1500,
+      "width": 1000,
+      "items": [
+        {
+          "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p6/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p6/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/image00006.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1000
+              },
+              "target": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p6"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p7",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Folio 7r"
+        ]
+      },
+      "height": 1500,
+      "width": 1000,
+      "items": [
+        {
+          "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p7/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p7/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/image00007.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1000
+              },
+              "target": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p7"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p8",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Folio 4v"
+        ]
+      },
+      "height": 1500,
+      "width": 1000,
+      "items": [
+        {
+          "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p8/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p8/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/image00008.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1000
+              },
+              "target": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p8"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p9",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Folio 9r"
+        ]
+      },
+      "height": 1500,
+      "width": 1000,
+      "items": [
+        {
+          "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p9/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p9/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/image00009.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1000
+              },
+              "target": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p9"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p10",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Folio 5v"
+        ]
+      },
+      "height": 1500,
+      "width": 1000,
+      "items": [
+        {
+          "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p10/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p10/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/image00010.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1000
+              },
+              "target": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p10"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p11",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Folio 11r"
+        ]
+      },
+      "height": 1500,
+      "width": 1000,
+      "items": [
+        {
+          "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p11/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p11/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/image00011.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1000
+              },
+              "target": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p11"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p12",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Folio 6v"
+        ]
+      },
+      "height": 1500,
+      "width": 1000,
+      "items": [
+        {
+          "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p12/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p12/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/image00012.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1000
+              },
+              "target": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p12"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p13",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Folio 13r"
+        ]
+      },
+      "height": 1500,
+      "width": 1000,
+      "items": [
+        {
+          "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p13/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p13/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/image00013.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1000
+              },
+              "target": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p13"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p14",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Folio 7v"
+        ]
+      },
+      "height": 1500,
+      "width": 1000,
+      "items": [
+        {
+          "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p14/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p14/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/image00014.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1000
+              },
+              "target": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p14"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p15",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Folio 15r"
+        ]
+      },
+      "height": 1500,
+      "width": 1000,
+      "items": [
+        {
+          "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p15/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p15/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/image00015.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1000
+              },
+              "target": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p15"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p16",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Folio 8v"
+        ]
+      },
+      "height": 1500,
+      "width": 1000,
+      "items": [
+        {
+          "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p16/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p16/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/image00016.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1000
+              },
+              "target": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p16"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p17",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Folio 17r"
+        ]
+      },
+      "height": 1500,
+      "width": 1000,
+      "items": [
+        {
+          "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p17/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p17/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/image00017.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1000
+              },
+              "target": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p17"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p18",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Folio 9v"
+        ]
+      },
+      "height": 1500,
+      "width": 1000,
+      "items": [
+        {
+          "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p18/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p18/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/image00018.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1000
+              },
+              "target": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p18"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p19",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Folio 19r"
+        ]
+      },
+      "height": 1500,
+      "width": 1000,
+      "items": [
+        {
+          "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p19/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p19/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/image00019.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1000
+              },
+              "target": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p19"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p20",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Folio 10v"
+        ]
+      },
+      "height": 1500,
+      "width": 1000,
+      "items": [
+        {
+          "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p20/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p20/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/image00020.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1000
+              },
+              "target": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p20"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p21",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Folio 21r"
+        ]
+      },
+      "height": 1500,
+      "width": 1000,
+      "items": [
+        {
+          "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p21/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p21/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/image00021.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1000
+              },
+              "target": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p21"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p22",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Folio 11v"
+        ]
+      },
+      "height": 1500,
+      "width": 1000,
+      "items": [
+        {
+          "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p22/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p22/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/image00022.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1000
+              },
+              "target": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p22"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p23",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Folio 23r"
+        ]
+      },
+      "height": 1500,
+      "width": 1000,
+      "items": [
+        {
+          "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p23/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p23/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/image00023.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1000
+              },
+              "target": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p23"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p24",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Folio 12v"
+        ]
+      },
+      "height": 1500,
+      "width": 1000,
+      "items": [
+        {
+          "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p24/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p24/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/image00024.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1000
+              },
+              "target": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p24"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p25",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Folio 25r"
+        ]
+      },
+      "height": 1500,
+      "width": 1000,
+      "items": [
+        {
+          "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p25/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p25/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/image00025.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1000
+              },
+              "target": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p25"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p26",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Folio 13v"
+        ]
+      },
+      "height": 1500,
+      "width": 1000,
+      "items": [
+        {
+          "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p26/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p26/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/image00026.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1000
+              },
+              "target": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p26"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p27",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Folio 27r"
+        ]
+      },
+      "height": 1500,
+      "width": 1000,
+      "items": [
+        {
+          "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p27/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p27/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/image00027.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1000
+              },
+              "target": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p27"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p28",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Folio 14v"
+        ]
+      },
+      "height": 1500,
+      "width": 1000,
+      "items": [
+        {
+          "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p28/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p28/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/image00028.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1000
+              },
+              "target": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p28"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p29",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Folio 29r"
+        ]
+      },
+      "height": 1500,
+      "width": 1000,
+      "items": [
+        {
+          "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p29/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p29/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/image00029.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1000
+              },
+              "target": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p29"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p30",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Folio 15v"
+        ]
+      },
+      "height": 1500,
+      "width": 1000,
+      "items": [
+        {
+          "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p30/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p30/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/image00030.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1000
+              },
+              "target": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p30"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p31",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Folio 31r"
+        ]
+      },
+      "height": 1500,
+      "width": 1000,
+      "items": [
+        {
+          "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p31/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p31/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/image00031.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1000
+              },
+              "target": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p31"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p32",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Folio 16v"
+        ]
+      },
+      "height": 1500,
+      "width": 1000,
+      "items": [
+        {
+          "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p32/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p32/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/image00032.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1000
+              },
+              "target": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p32"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p33",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Folio 33r"
+        ]
+      },
+      "height": 1500,
+      "width": 1000,
+      "items": [
+        {
+          "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p33/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p33/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/image00033.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1000
+              },
+              "target": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p33"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p34",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Folio 17v"
+        ]
+      },
+      "height": 1500,
+      "width": 1000,
+      "items": [
+        {
+          "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p34/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p34/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/image00034.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1000
+              },
+              "target": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p34"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p35",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Folio 35r"
+        ]
+      },
+      "height": 1500,
+      "width": 1000,
+      "items": [
+        {
+          "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p35/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p35/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/image00035.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1000
+              },
+              "target": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p35"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p36",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Folio 18v"
+        ]
+      },
+      "height": 1500,
+      "width": 1000,
+      "items": [
+        {
+          "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p36/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p36/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/image00036.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1000
+              },
+              "target": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p36"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p37",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Folio 37r"
+        ]
+      },
+      "height": 1500,
+      "width": 1000,
+      "items": [
+        {
+          "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p37/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p37/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/image00037.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1000
+              },
+              "target": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p37"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p38",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Folio 19v"
+        ]
+      },
+      "height": 1500,
+      "width": 1000,
+      "items": [
+        {
+          "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p38/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p38/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/image00038.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1000
+              },
+              "target": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p38"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p39",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Folio 39r"
+        ]
+      },
+      "height": 1500,
+      "width": 1000,
+      "items": [
+        {
+          "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p39/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p39/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/image00039.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1000
+              },
+              "target": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p39"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p40",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Folio 20v"
+        ]
+      },
+      "height": 1500,
+      "width": 1000,
+      "items": [
+        {
+          "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p40/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p40/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/image00040.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1000
+              },
+              "target": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p40"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p41",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Folio 41r"
+        ]
+      },
+      "height": 1500,
+      "width": 1000,
+      "items": [
+        {
+          "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p41/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p41/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/image00041.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1000
+              },
+              "target": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p41"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p42",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Folio 21v"
+        ]
+      },
+      "height": 1500,
+      "width": 1000,
+      "items": [
+        {
+          "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p42/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p42/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/image00042.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1000
+              },
+              "target": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p42"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p43",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Folio 43r"
+        ]
+      },
+      "height": 1500,
+      "width": 1000,
+      "items": [
+        {
+          "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p43/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p43/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/image00043.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1000
+              },
+              "target": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p43"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p44",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Folio 22v"
+        ]
+      },
+      "height": 1500,
+      "width": 1000,
+      "items": [
+        {
+          "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p44/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p44/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/image00044.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1000
+              },
+              "target": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p44"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p45",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Folio 45r"
+        ]
+      },
+      "height": 1500,
+      "width": 1000,
+      "items": [
+        {
+          "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p45/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p45/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/image00045.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1000
+              },
+              "target": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p45"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p46",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Folio 23v"
+        ]
+      },
+      "height": 1500,
+      "width": 1000,
+      "items": [
+        {
+          "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p46/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p46/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/image00046.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1000
+              },
+              "target": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p46"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p47",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Folio 47r"
+        ]
+      },
+      "height": 1500,
+      "width": 1000,
+      "items": [
+        {
+          "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p47/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p47/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/image00047.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1000
+              },
+              "target": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p47"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p48",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Folio 24v"
+        ]
+      },
+      "height": 1500,
+      "width": 1000,
+      "items": [
+        {
+          "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p48/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p48/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/image00048.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1000
+              },
+              "target": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p48"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p49",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Folio 49r"
+        ]
+      },
+      "height": 1500,
+      "width": 1000,
+      "items": [
+        {
+          "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p49/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p49/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/image00049.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1000
+              },
+              "target": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p49"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p50",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Folio 25v"
+        ]
+      },
+      "height": 1500,
+      "width": 1000,
+      "items": [
+        {
+          "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p50/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p50/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/image00050.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1000
+              },
+              "target": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p50"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p51",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Folio 51r"
+        ]
+      },
+      "height": 1500,
+      "width": 1000,
+      "items": [
+        {
+          "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p51/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p51/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/image00051.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1000
+              },
+              "target": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p51"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p52",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Folio 26v"
+        ]
+      },
+      "height": 1500,
+      "width": 1000,
+      "items": [
+        {
+          "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p52/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p52/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/image00052.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1000
+              },
+              "target": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p52"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p53",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Folio 53r"
+        ]
+      },
+      "height": 1500,
+      "width": 1000,
+      "items": [
+        {
+          "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p53/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p53/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/image00053.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1000
+              },
+              "target": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p53"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p54",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Folio 27v"
+        ]
+      },
+      "height": 1500,
+      "width": 1000,
+      "items": [
+        {
+          "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p54/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p54/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/image00054.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1000
+              },
+              "target": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p54"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p55",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Folio 55r"
+        ]
+      },
+      "height": 1500,
+      "width": 1000,
+      "items": [
+        {
+          "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p55/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p55/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/image00055.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1000
+              },
+              "target": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p55"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p56",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Folio 28v"
+        ]
+      },
+      "height": 1500,
+      "width": 1000,
+      "items": [
+        {
+          "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p56/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p56/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/image00056.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1000
+              },
+              "target": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p56"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p57",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Folio 57r"
+        ]
+      },
+      "height": 1500,
+      "width": 1000,
+      "items": [
+        {
+          "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p57/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p57/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/image00057.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1000
+              },
+              "target": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p57"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p58",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Folio 29v"
+        ]
+      },
+      "height": 1500,
+      "width": 1000,
+      "items": [
+        {
+          "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p58/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p58/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/image00058.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1000
+              },
+              "target": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p58"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p59",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Folio 59r"
+        ]
+      },
+      "height": 1500,
+      "width": 1000,
+      "items": [
+        {
+          "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p59/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p59/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/image00059.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1000
+              },
+              "target": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p59"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p60",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Folio 30v"
+        ]
+      },
+      "height": 1500,
+      "width": 1000,
+      "items": [
+        {
+          "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p60/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p60/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/image00060.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1000
+              },
+              "target": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p60"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p61",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Folio 61r"
+        ]
+      },
+      "height": 1500,
+      "width": 1000,
+      "items": [
+        {
+          "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p61/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p61/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/image00061.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1000
+              },
+              "target": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p61"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p62",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Folio 31v"
+        ]
+      },
+      "height": 1500,
+      "width": 1000,
+      "items": [
+        {
+          "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p62/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p62/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/image00062.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1000
+              },
+              "target": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p62"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p63",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Folio 63r"
+        ]
+      },
+      "height": 1500,
+      "width": 1000,
+      "items": [
+        {
+          "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p63/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p63/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/image00063.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1000
+              },
+              "target": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p63"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p64",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Folio 32v"
+        ]
+      },
+      "height": 1500,
+      "width": 1000,
+      "items": [
+        {
+          "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p64/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p64/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/image00064.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1000
+              },
+              "target": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p64"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p65",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Folio 65r"
+        ]
+      },
+      "height": 1500,
+      "width": 1000,
+      "items": [
+        {
+          "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p65/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p65/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/image00065.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1000
+              },
+              "target": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p65"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p66",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Folio 33v"
+        ]
+      },
+      "height": 1500,
+      "width": 1000,
+      "items": [
+        {
+          "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p66/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p66/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/image00066.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1000
+              },
+              "target": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p66"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p67",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Folio 67r"
+        ]
+      },
+      "height": 1500,
+      "width": 1000,
+      "items": [
+        {
+          "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p67/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p67/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/image00067.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1000
+              },
+              "target": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p67"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p68",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Folio 34v"
+        ]
+      },
+      "height": 1500,
+      "width": 1000,
+      "items": [
+        {
+          "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p68/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p68/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/image00068.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1000
+              },
+              "target": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p68"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p69",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Folio 69r"
+        ]
+      },
+      "height": 1500,
+      "width": 1000,
+      "items": [
+        {
+          "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p69/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p69/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/image00069.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1000
+              },
+              "target": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p69"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p70",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Folio 35v"
+        ]
+      },
+      "height": 1500,
+      "width": 1000,
+      "items": [
+        {
+          "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p70/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p70/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/image00070.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1000
+              },
+              "target": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p70"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p71",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Folio 71r"
+        ]
+      },
+      "height": 1500,
+      "width": 1000,
+      "items": [
+        {
+          "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p71/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p71/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/image00071.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1000
+              },
+              "target": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p71"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p72",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Folio 36v"
+        ]
+      },
+      "height": 1500,
+      "width": 1000,
+      "items": [
+        {
+          "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p72/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p72/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/image00072.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1000
+              },
+              "target": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p72"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p73",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Folio 73r"
+        ]
+      },
+      "height": 1500,
+      "width": 1000,
+      "items": [
+        {
+          "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p73/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p73/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/image00073.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1000
+              },
+              "target": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p73"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p74",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Folio 37v"
+        ]
+      },
+      "height": 1500,
+      "width": 1000,
+      "items": [
+        {
+          "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p74/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p74/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/image00074.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1000
+              },
+              "target": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p74"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p75",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Folio 75r"
+        ]
+      },
+      "height": 1500,
+      "width": 1000,
+      "items": [
+        {
+          "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p75/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p75/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/image00075.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1000
+              },
+              "target": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p75"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p76",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Folio 38v"
+        ]
+      },
+      "height": 1500,
+      "width": 1000,
+      "items": [
+        {
+          "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p76/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p76/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/image00076.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1000
+              },
+              "target": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p76"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p77",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Folio 77r"
+        ]
+      },
+      "height": 1500,
+      "width": 1000,
+      "items": [
+        {
+          "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p77/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p77/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/image00077.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1000
+              },
+              "target": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p77"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p78",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Folio 39v"
+        ]
+      },
+      "height": 1500,
+      "width": 1000,
+      "items": [
+        {
+          "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p78/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p78/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/image00078.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1000
+              },
+              "target": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p78"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p79",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Folio 79r"
+        ]
+      },
+      "height": 1500,
+      "width": 1000,
+      "items": [
+        {
+          "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p79/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p79/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/image00079.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1000
+              },
+              "target": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p79"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p80",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Folio 40v"
+        ]
+      },
+      "height": 1500,
+      "width": 1000,
+      "items": [
+        {
+          "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p80/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p80/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/image00080.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1000
+              },
+              "target": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p80"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p81",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Folio 81r"
+        ]
+      },
+      "height": 1500,
+      "width": 1000,
+      "items": [
+        {
+          "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p81/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p81/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/image00081.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1000
+              },
+              "target": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p81"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p82",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Folio 41v"
+        ]
+      },
+      "height": 1500,
+      "width": 1000,
+      "items": [
+        {
+          "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p82/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p82/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/image00082.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1000
+              },
+              "target": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p82"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p83",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Folio 83r"
+        ]
+      },
+      "height": 1500,
+      "width": 1000,
+      "items": [
+        {
+          "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p83/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p83/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/image00083.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1000
+              },
+              "target": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p83"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p84",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Folio 42v"
+        ]
+      },
+      "height": 1500,
+      "width": 1000,
+      "items": [
+        {
+          "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p84/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p84/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/image00084.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1000
+              },
+              "target": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p84"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p85",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Folio 85r"
+        ]
+      },
+      "height": 1500,
+      "width": 1000,
+      "items": [
+        {
+          "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p85/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p85/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/image00085.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1000
+              },
+              "target": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p85"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p86",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Folio 43v"
+        ]
+      },
+      "height": 1500,
+      "width": 1000,
+      "items": [
+        {
+          "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p86/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p86/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/image00086.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1000
+              },
+              "target": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p86"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p87",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Folio 87r"
+        ]
+      },
+      "height": 1500,
+      "width": 1000,
+      "items": [
+        {
+          "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p87/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p87/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/image00087.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1000
+              },
+              "target": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p87"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p88",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Folio 44v"
+        ]
+      },
+      "height": 1500,
+      "width": 1000,
+      "items": [
+        {
+          "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p88/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p88/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/image00088.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1000
+              },
+              "target": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p88"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p89",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Folio 89r"
+        ]
+      },
+      "height": 1500,
+      "width": 1000,
+      "items": [
+        {
+          "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p89/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p89/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/image00089.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1000
+              },
+              "target": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p89"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p90",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Folio 45v"
+        ]
+      },
+      "height": 1500,
+      "width": 1000,
+      "items": [
+        {
+          "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p90/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p90/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/image00090.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1000
+              },
+              "target": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p90"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p91",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Folio 91r"
+        ]
+      },
+      "height": 1500,
+      "width": 1000,
+      "items": [
+        {
+          "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p91/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p91/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/image00091.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1000
+              },
+              "target": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p91"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p92",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Folio 46v"
+        ]
+      },
+      "height": 1500,
+      "width": 1000,
+      "items": [
+        {
+          "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p92/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p92/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/image00092.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1000
+              },
+              "target": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p92"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p93",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Folio 93r"
+        ]
+      },
+      "height": 1500,
+      "width": 1000,
+      "items": [
+        {
+          "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p93/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p93/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/image00093.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1000
+              },
+              "target": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p93"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p94",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Folio 47v"
+        ]
+      },
+      "height": 1500,
+      "width": 1000,
+      "items": [
+        {
+          "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p94/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p94/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/image00094.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1000
+              },
+              "target": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p94"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p95",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Folio 95r"
+        ]
+      },
+      "height": 1500,
+      "width": 1000,
+      "items": [
+        {
+          "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p95/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p95/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/image00095.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1000
+              },
+              "target": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p95"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p96",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Folio 48v"
+        ]
+      },
+      "height": 1500,
+      "width": 1000,
+      "items": [
+        {
+          "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p96/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p96/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/image00096.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1000
+              },
+              "target": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p96"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p97",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Folio 97r"
+        ]
+      },
+      "height": 1500,
+      "width": 1000,
+      "items": [
+        {
+          "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p97/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p97/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/image00097.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1000
+              },
+              "target": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p97"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p98",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Folio 49v"
+        ]
+      },
+      "height": 1500,
+      "width": 1000,
+      "items": [
+        {
+          "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p98/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p98/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/image00098.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1000
+              },
+              "target": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p98"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p99",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Folio 99r"
+        ]
+      },
+      "height": 1500,
+      "width": 1000,
+      "items": [
+        {
+          "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p99/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p99/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/image00099.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1000
+              },
+              "target": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p99"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p100",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Folio 50v"
+        ]
+      },
+      "height": 1500,
+      "width": 1000,
+      "items": [
+        {
+          "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p100/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p100/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/image00100.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1000
+              },
+              "target": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p100"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p101",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Folio 101r"
+        ]
+      },
+      "height": 1500,
+      "width": 1000,
+      "items": [
+        {
+          "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p101/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p101/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/image00101.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1000
+              },
+              "target": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p101"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p102",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Folio 51v"
+        ]
+      },
+      "height": 1500,
+      "width": 1000,
+      "items": [
+        {
+          "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p102/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p102/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/image00102.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1000
+              },
+              "target": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p102"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p103",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Folio 103r"
+        ]
+      },
+      "height": 1500,
+      "width": 1000,
+      "items": [
+        {
+          "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p103/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p103/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/image00103.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1000
+              },
+              "target": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p103"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p104",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Folio 52v"
+        ]
+      },
+      "height": 1500,
+      "width": 1000,
+      "items": [
+        {
+          "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p104/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p104/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/image00104.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1000
+              },
+              "target": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p104"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p105",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Folio 105r"
+        ]
+      },
+      "height": 1500,
+      "width": 1000,
+      "items": [
+        {
+          "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p105/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p105/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/image00105.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1000
+              },
+              "target": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p105"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p106",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Folio 53v"
+        ]
+      },
+      "height": 1500,
+      "width": 1000,
+      "items": [
+        {
+          "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p106/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p106/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/image00106.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1000
+              },
+              "target": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p106"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p107",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Folio 107r"
+        ]
+      },
+      "height": 1500,
+      "width": 1000,
+      "items": [
+        {
+          "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p107/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p107/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/image00107.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1000
+              },
+              "target": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p107"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p108",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Folio 54v"
+        ]
+      },
+      "height": 1500,
+      "width": 1000,
+      "items": [
+        {
+          "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p108/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p108/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/image00108.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1000
+              },
+              "target": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p108"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p109",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Folio 109r"
+        ]
+      },
+      "height": 1500,
+      "width": 1000,
+      "items": [
+        {
+          "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p109/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p109/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/image00109.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1000
+              },
+              "target": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p109"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p110",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Folio 55v"
+        ]
+      },
+      "height": 1500,
+      "width": 1000,
+      "items": [
+        {
+          "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p110/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p110/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/image00110.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1000
+              },
+              "target": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p110"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p111",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Folio 111r"
+        ]
+      },
+      "height": 1500,
+      "width": 1000,
+      "items": [
+        {
+          "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p111/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p111/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/image00111.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1000
+              },
+              "target": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p111"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p112",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Folio 56v"
+        ]
+      },
+      "height": 1500,
+      "width": 1000,
+      "items": [
+        {
+          "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p112/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p112/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/image00112.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1000
+              },
+              "target": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p112"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p113",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Folio 113r"
+        ]
+      },
+      "height": 1500,
+      "width": 1000,
+      "items": [
+        {
+          "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p113/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p113/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/image00113.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1000
+              },
+              "target": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p113"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p114",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Folio 57v"
+        ]
+      },
+      "height": 1500,
+      "width": 1000,
+      "items": [
+        {
+          "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p114/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p114/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/image00114.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1000
+              },
+              "target": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p114"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p115",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Folio 115r"
+        ]
+      },
+      "height": 1500,
+      "width": 1000,
+      "items": [
+        {
+          "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p115/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p115/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/image00115.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1000
+              },
+              "target": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p115"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p116",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Folio 58v"
+        ]
+      },
+      "height": 1500,
+      "width": 1000,
+      "items": [
+        {
+          "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p116/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p116/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/image00116.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1000
+              },
+              "target": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p116"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p117",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Folio 117r"
+        ]
+      },
+      "height": 1500,
+      "width": 1000,
+      "items": [
+        {
+          "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p117/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p117/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/image00117.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1000
+              },
+              "target": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p117"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p118",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Folio 59v"
+        ]
+      },
+      "height": 1500,
+      "width": 1000,
+      "items": [
+        {
+          "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p118/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p118/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/image00118.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1000
+              },
+              "target": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p118"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p119",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Folio 119r"
+        ]
+      },
+      "height": 1500,
+      "width": 1000,
+      "items": [
+        {
+          "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p119/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p119/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/image00119.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1000
+              },
+              "target": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p119"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p120",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Folio 60v"
+        ]
+      },
+      "height": 1500,
+      "width": 1000,
+      "items": [
+        {
+          "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p120/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p120/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/image00120.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1000
+              },
+              "target": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p120"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p121",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Folio 121r"
+        ]
+      },
+      "height": 1500,
+      "width": 1000,
+      "items": [
+        {
+          "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p121/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p121/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/image00121.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1000
+              },
+              "target": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p121"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p122",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Folio 61v"
+        ]
+      },
+      "height": 1500,
+      "width": 1000,
+      "items": [
+        {
+          "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p122/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p122/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/image00122.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1000
+              },
+              "target": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p122"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p123",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Folio 123r"
+        ]
+      },
+      "height": 1500,
+      "width": 1000,
+      "items": [
+        {
+          "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p123/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p123/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/image00123.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1000
+              },
+              "target": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p123"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p124",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Folio 62v"
+        ]
+      },
+      "height": 1500,
+      "width": 1000,
+      "items": [
+        {
+          "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p124/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p124/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/image00124.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1000
+              },
+              "target": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p124"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p125",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Folio 125r"
+        ]
+      },
+      "height": 1500,
+      "width": 1000,
+      "items": [
+        {
+          "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p125/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p125/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/image00125.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1000
+              },
+              "target": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p125"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p126",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Folio 63v"
+        ]
+      },
+      "height": 1500,
+      "width": 1000,
+      "items": [
+        {
+          "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p126/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p126/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/image00126.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1000
+              },
+              "target": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p126"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p127",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Folio 127r"
+        ]
+      },
+      "height": 1500,
+      "width": 1000,
+      "items": [
+        {
+          "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p127/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p127/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/image00127.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1000
+              },
+              "target": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p127"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p128",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Folio 64v"
+        ]
+      },
+      "height": 1500,
+      "width": 1000,
+      "items": [
+        {
+          "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p128/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p128/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/image00128.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1000
+              },
+              "target": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p128"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p129",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Folio 129r"
+        ]
+      },
+      "height": 1500,
+      "width": 1000,
+      "items": [
+        {
+          "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p129/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p129/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/image00129.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1000
+              },
+              "target": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p129"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p130",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Folio 65v"
+        ]
+      },
+      "height": 1500,
+      "width": 1000,
+      "items": [
+        {
+          "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p130/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p130/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/image00130.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1000
+              },
+              "target": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p130"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p131",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Folio 131r"
+        ]
+      },
+      "height": 1500,
+      "width": 1000,
+      "items": [
+        {
+          "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p131/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p131/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/image00131.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1000
+              },
+              "target": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p131"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p132",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Folio 66v"
+        ]
+      },
+      "height": 1500,
+      "width": 1000,
+      "items": [
+        {
+          "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p132/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p132/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/image00132.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1000
+              },
+              "target": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p132"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p133",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Folio 133r"
+        ]
+      },
+      "height": 1500,
+      "width": 1000,
+      "items": [
+        {
+          "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p133/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p133/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/image00133.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1000
+              },
+              "target": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p133"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p134",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Folio 67v"
+        ]
+      },
+      "height": 1500,
+      "width": 1000,
+      "items": [
+        {
+          "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p134/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p134/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/image00134.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1000
+              },
+              "target": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p134"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p135",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Folio 135r"
+        ]
+      },
+      "height": 1500,
+      "width": 1000,
+      "items": [
+        {
+          "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p135/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p135/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/image00135.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1000
+              },
+              "target": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p135"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p136",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Folio 68v"
+        ]
+      },
+      "height": 1500,
+      "width": 1000,
+      "items": [
+        {
+          "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p136/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p136/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/image00136.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1000
+              },
+              "target": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p136"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p137",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Folio 137r"
+        ]
+      },
+      "height": 1500,
+      "width": 1000,
+      "items": [
+        {
+          "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p137/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p137/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/image00137.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1000
+              },
+              "target": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p137"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p138",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Folio 69v"
+        ]
+      },
+      "height": 1500,
+      "width": 1000,
+      "items": [
+        {
+          "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p138/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p138/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/image00138.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1000
+              },
+              "target": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p138"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p139",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Folio 139r"
+        ]
+      },
+      "height": 1500,
+      "width": 1000,
+      "items": [
+        {
+          "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p139/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p139/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/image00139.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1000
+              },
+              "target": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p139"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p140",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Folio 70v"
+        ]
+      },
+      "height": 1500,
+      "width": 1000,
+      "items": [
+        {
+          "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p140/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p140/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/image00140.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1000
+              },
+              "target": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p140"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p141",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Folio 141r"
+        ]
+      },
+      "height": 1500,
+      "width": 1000,
+      "items": [
+        {
+          "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p141/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p141/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/image00141.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1000
+              },
+              "target": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p141"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p142",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Folio 71v"
+        ]
+      },
+      "height": 1500,
+      "width": 1000,
+      "items": [
+        {
+          "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p142/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p142/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/image00142.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1000
+              },
+              "target": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p142"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p143",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Folio 143r"
+        ]
+      },
+      "height": 1500,
+      "width": 1000,
+      "items": [
+        {
+          "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p143/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p143/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/image00143.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1000
+              },
+              "target": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p143"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p144",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Folio 72v"
+        ]
+      },
+      "height": 1500,
+      "width": 1000,
+      "items": [
+        {
+          "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p144/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p144/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/image00144.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1000
+              },
+              "target": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p144"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p145",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Folio 145r"
+        ]
+      },
+      "height": 1500,
+      "width": 1000,
+      "items": [
+        {
+          "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p145/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p145/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/image00145.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1000
+              },
+              "target": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p145"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p146",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Folio 73v"
+        ]
+      },
+      "height": 1500,
+      "width": 1000,
+      "items": [
+        {
+          "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p146/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p146/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/image00146.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1000
+              },
+              "target": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p146"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p147",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Folio 147r"
+        ]
+      },
+      "height": 1500,
+      "width": 1000,
+      "items": [
+        {
+          "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p147/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p147/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/image00147.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1000
+              },
+              "target": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p147"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p148",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Folio 74v"
+        ]
+      },
+      "height": 1500,
+      "width": 1000,
+      "items": [
+        {
+          "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p148/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p148/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/image00148.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1000
+              },
+              "target": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p148"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p149",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Folio 149r"
+        ]
+      },
+      "height": 1500,
+      "width": 1000,
+      "items": [
+        {
+          "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p149/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p149/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/image00149.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1000
+              },
+              "target": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p149"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p150",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Folio 75v"
+        ]
+      },
+      "height": 1500,
+      "width": 1000,
+      "items": [
+        {
+          "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p150/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p150/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/image00150.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1000
+              },
+              "target": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p150"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p151",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Folio 151r"
+        ]
+      },
+      "height": 1500,
+      "width": 1000,
+      "items": [
+        {
+          "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p151/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p151/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/image00151.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1000
+              },
+              "target": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p151"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p152",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Folio 76v"
+        ]
+      },
+      "height": 1500,
+      "width": 1000,
+      "items": [
+        {
+          "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p152/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p152/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/image00152.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1000
+              },
+              "target": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p152"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p153",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Folio 153r"
+        ]
+      },
+      "height": 1500,
+      "width": 1000,
+      "items": [
+        {
+          "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p153/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p153/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/image00153.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 1500,
+                "width": 1000
+              },
+              "target": "https://lmorreale3.github.io/iiif-manifests/LOC%20OWH%20MS%2022/canvas/p153"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
